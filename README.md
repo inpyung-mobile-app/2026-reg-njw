@@ -1,16 +1,6 @@
-# untitled
+# 2026년 지방기능경기대회 DailyTarot
 
-A new Flutter project.
+**프레임워크: FLutter**
+**사용 언어:** ```dart```, ```kotlin```
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI는 Flutter, 안드로이드 내부 로직은 Kotlin
